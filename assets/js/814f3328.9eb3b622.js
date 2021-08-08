@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkyakupdurmus=self.webpackChunkyakupdurmus||[]).push([[535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"/yakupdurmus/blog/welcome"},{"title":"Hello","permalink":"/yakupdurmus/blog/hello-world"},{"title":"Hola","permalink":"/yakupdurmus/blog/hola"}]}')}}]);

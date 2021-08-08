@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkyakupdurmus=self.webpackChunkyakupdurmus||[]).push([[741],{6309:function(u){u.exports=JSON.parse('{"allTagsPath":"/yakupdurmus/blog/tags","slug":"hola","name":"hola","count":1,"permalink":"/yakupdurmus/blog/tags/hola"}')}}]);
