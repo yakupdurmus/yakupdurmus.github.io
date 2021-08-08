@@ -3,8 +3,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: 'Yakup Durmuş',
-  tagline: 'Documents web site',
+  title: 'My Site',
+  tagline: 'Dinosaurs are cool',
   url: 'https://yakupdurmus.github.io/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -14,7 +14,7 @@ module.exports = {
   projectName: 'yakupdurmus.github.io', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'Yakup Durmuş',
+      title: 'My Site',
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.svg',
